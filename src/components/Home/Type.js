@@ -9,7 +9,7 @@ function Type() {
           "Undergraduate at SLIIT",
           "MERN Stack Web Development",
           "Android Studio Kotlin Development",
-          "Python Streamlit Development",
+          "Python Web Development",
         ],
         autoStart: true,
         loop: true,
