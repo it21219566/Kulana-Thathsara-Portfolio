@@ -8,6 +8,8 @@ import {
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Button from "react-bootstrap/Button";
+import { HiOutlineMailOpen } from "react-icons/hi";
 
 function Home2() {
   return (
@@ -107,6 +109,18 @@ function Home2() {
               </li>
             </ul>
           </Col>
+        </Row>
+        <Row style={{ justifyContent: "center", position: "relative" }}>
+        <p style={{ color: "rgb(155 126 172)", marginTop: "20px" }}>
+          Contact me via Email, {" "}
+        </p>
+        <Button
+            href="mailto:it21219566@my.sliit.lk"
+            style={{ maxWidth: "250px", margin: "20px" }}
+        >
+            <HiOutlineMailOpen />
+            &nbsp;Contact me
+          </Button>
         </Row>
       </Container>
     </Container>
