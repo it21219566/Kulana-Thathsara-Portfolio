@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am a Software Engineering Undergraduate at Sri Lanka Institute of Information Technology.
             <br />
-            Currently, I am following BSc (Hons) in Information Technology Specialising in Software Engineering.
+            Currently, I am following BSc (Hons) in Information Technology Specialising in Software Engineering
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
