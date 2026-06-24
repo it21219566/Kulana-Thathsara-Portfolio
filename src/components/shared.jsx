@@ -10,10 +10,10 @@ export const PROFILE = {
   name: "Kulana Thathsara",
   initials: "KT",
   title: "Software & Machine Learning Engineer",
-  email: "kulanathathsara@gmail.com",
-  github: "https://github.com/it21219566",
-  linkedin: "https://linkedin.com/in/kulana-thathsara",
-  resumeUrl: "#",
+  email: import.meta.env.VITE_EMAIL_ADDRESS || "kulanathathsara@gmail.com",
+  github: import.meta.env.VITE_GITHUB_URL || "https://github.com",
+  linkedin: import.meta.env.VITE_LINKEDIN_URL || "https://linkedin.com",
+  resumeUrl: import.meta.env.VITE_RESUME_URL || "#",
 };
 
 export const NAV_LINKS = [

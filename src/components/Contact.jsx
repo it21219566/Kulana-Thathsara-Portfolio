@@ -137,10 +137,10 @@ export default function Contact() {
             <h3 className="text-zinc-100 font-medium mb-5 font-display">Find me elsewhere</h3>
             <div className="space-y-4">
               <a href={`mailto:${PROFILE.email}`} className="flex items-center gap-3 text-sm text-zinc-400 hover:text-cyan-400 transition-colors">
-                <FiMail size={16} /> {PROFILE.email}
+                <FiMail size={16} /> kulanathathsara@gmail.com
               </a>
               <a href={PROFILE.github} target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-zinc-400 hover:text-cyan-400 transition-colors">
-                <FiGithub size={16} /> github.com/it21219566
+                <FiGithub size={16} /> github.com/kulanathathsara
               </a>
               <a href={PROFILE.linkedin} target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-zinc-400 hover:text-cyan-400 transition-colors">
                 <FiLinkedin size={16} /> linkedin.com/in/kulanathathsara
