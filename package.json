@@ -11,7 +11,7 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 },
-  "homepage": "https://it21219566.github.io/Kulana-Thathsara_Portfolio",
+  "homepage": "https://it21219566.github.io/Kulana-Thathsara-Portfolio",
   "dependencies": {
     "framer-motion": "^12.41.0",
     "react": "^19.2.7",
